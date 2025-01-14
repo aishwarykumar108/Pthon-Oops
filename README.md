@@ -1,2 +1,2 @@
 # Pthon-Oops
-Just to understand to concept of Python Oops
+Just to understand concept of Python Oops
