@@ -1,0 +1,25 @@
+Employee
+->Have
+--Name
+--ID
+--Salary
+--Designation
+
+->Will work on
+--Report
+--Presentation
+--Travel
+--Build
+
+Phone 
+->Have
+--Size
+--Weight
+--Camera
+--Finger Print
+
+->Can
+--Call
+--Click Photo
+--Record Video
+--Surf Browser
